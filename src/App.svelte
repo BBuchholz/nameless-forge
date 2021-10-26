@@ -3,12 +3,13 @@
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>Nameless Forge</h1>
+	<p>Under Construction ;)</p>
 </main>
 
 <style>
 	main {
+		font-family: 'Oranienbaum', serif;
 		text-align: center;
 		padding: 1em;
 		max-width: 240px;
@@ -16,7 +17,7 @@
 	}
 
 	h1 {
-		color: #ff3e00;
+		color: #000;
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
